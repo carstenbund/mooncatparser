@@ -1,9 +1,10 @@
-# mooncatparser
+# mooncatparser-py
 
 # added 3 files 
-mooncatparser.py, translation of original js 
-mooncats.py, skeleton implementation for rendering all rescued cats
-rescued.txt, file with IDs of resued cats
+
+### mooncatparser.py, translation of original js 
+### mooncats.py, skeleton implementation for rendering all rescued cats
+### rescued.txt, file with IDs of resued cats
 
 ### Official MoonCat Generation Library for the MoonCatRescue Ethereum Smart Contract
 
