@@ -1,5 +1,10 @@
 # mooncatparser
 
+# added 3 files 
+mooncatparser.py, translation of original js 
+mooncats.py, skeleton implementation for rendering all rescued cats
+rescued.txt, file with IDs of resued cats
+
 ### Official MoonCat Generation Library for the MoonCatRescue Ethereum Smart Contract
 
 This library exports a single function `mooncatparser` which takes a 5 byte hex `catId` and returns a 2D array of hex color value strings, or `null` for transparency.
